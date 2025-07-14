@@ -1,0 +1,1 @@
+ALTER TABLE task_schedules ADD `sequence_tasks` text;

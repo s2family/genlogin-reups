@@ -1,0 +1,1 @@
+ALTER TABLE task_run_profile_status ADD `tag` text;

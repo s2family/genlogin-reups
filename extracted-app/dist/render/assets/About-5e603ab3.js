@@ -1,0 +1,1 @@
+import{d as e,a1 as o,S as t,U as n}from"./_plugin-vue_export-helper-b059e461.js";const a=e({name:"ViewAbout"});function s(c,r,p,u,_,d){return t(),n("div",null,"About")}const i=o(a,[["render",s]]);export{i as default};
